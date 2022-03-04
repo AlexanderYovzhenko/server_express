@@ -1,0 +1,31 @@
+{
+  "name": "server_express",
+  "version": "1.0.0",
+  "description": "server express",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoldenManBel/server_express.git"
+  },
+  "keywords": [
+    "server",
+    "express",
+    "js"
+  ],
+  "author": "Aleksandr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoldenManBel/server_express/issues"
+  },
+  "homepage": "https://github.com/GoldenManBel/server_express#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
